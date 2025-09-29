@@ -2,7 +2,7 @@
 
 Eu sou <strong>Juan Valongo</strong>, <strong>Atualmente estudante do 1º período no curso de ADS turma 02/2025 no SENAC/PE</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
 - 💬 Pergunte-me sobre: <strong>Filmes da Marvel, séries diversas, jogos da Nintendo</strong>
 - 📣 Nós podemos falar em: <strong>Português e inglês intermediário</strong>
 
