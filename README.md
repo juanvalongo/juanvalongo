@@ -1,8 +1,8 @@
 # Juan Valongo <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl0c3o4MHVia3VibnR0eTRxb2IxZjM2cXQ0ZTk5aXJhMHM1YjlxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/57ZvMMkuBIVMlU88Yh/200.webp" width="60px">
 
-Eu sou <strong>Juan Valongo</strong>, <strong>Atualmente estudante do 1º período no curso de ADS turma 02/2025 no SENAC/PE</strong> 👨🏻‍💻 
+Eu sou <strong>Juan Valongo</strong>, <strong>Atualmente estudante do 2º período no curso de ADS turma 02/2025 no SENAC/PE</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Python</strong> <strong>MySQL</strong> 
 - 💬 Pergunte-me sobre: <strong>Filmes da Marvel, séries diversas, jogos da Nintendo</strong>
 - 📣 Nós podemos falar em: <strong>Português e inglês intermediário</strong>
 
